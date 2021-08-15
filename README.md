@@ -1,2 +1,1 @@
-# complete-a-palavra
-Jogo Educacional Complete a Palavra - React.js, Next.js
+Jogo Educacional Complete a Palavra - React.js e Next.js
